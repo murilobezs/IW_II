@@ -1,0 +1,106 @@
+Microsoft Windows [versão 10.0.19043.1620]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\LAB4\Desktop\IW_II>cd curso_node
+
+C:\Users\LAB4\Desktop\IW_II\curso_node>cd 03_express
+
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>npm install express --save
+
+added 64 packages, and audited 65 packages in 2s
+
+12 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>
+
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+ReferenceError: nome is not defined
+    at C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\index.js:17:26
+    at Layer.handle [as handle_request] (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\index.js:280:10)
+    at expressInit (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\middleware\init.js:40:5)
+    at Layer.handle [as handle_request] (C:\Users\LAB4\Desktop\IW_II\curso_node\03_express\node_modules\express\lib\router\layer.js:95:5)
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>          
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>node index.js
+Please, mind the gap between the train and the paltform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>npm install nodemon -g
+
+added 29 packages, and audited 30 packages in 1s
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>nodemon index.js
+[nodemon] 3.1.0
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node index.js`
+Please, mind the gap between the train and the plataform http://localhost:8081
+[nodemon] restarting due to changes...
+[nodemon] starting `node index.js`
+Please, mind the gap between the train and the plataform http://localhost:8081
+^C
+C:\Users\LAB4\Desktop\IW_II\curso_node\03_express>  
