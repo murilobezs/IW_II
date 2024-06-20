@@ -1,4 +1,4 @@
-# Links
+# Links (obs: links temporariamente SEM funcionamento devido a bug em meu GitHub)
 ## Repositório para o componente Interface Web II.
 
 ### Calculadora: https://murilobezs.github.io/IW_II/1BIM/calculator
